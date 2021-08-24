@@ -1,0 +1,13 @@
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\bin\Debug\netcoreapp3.1\helloConsole.exe
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\bin\Debug\netcoreapp3.1\helloConsole.deps.json
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\bin\Debug\netcoreapp3.1\helloConsole.runtimeconfig.json
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\bin\Debug\netcoreapp3.1\helloConsole.runtimeconfig.dev.json
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\bin\Debug\netcoreapp3.1\helloConsole.dll
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\bin\Debug\netcoreapp3.1\helloConsole.pdb
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.csprojAssemblyReference.cache
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.AssemblyInfoInputs.cache
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.AssemblyInfo.cs
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.dll
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.pdb
+C:\Users\cigdem.turkmen\source\repos\ilkDers\helloConsole\obj\Debug\netcoreapp3.1\helloConsole.genruntimeconfig.cache
